@@ -13,5 +13,5 @@ Plots were made using either [matplotlib with the ggplot-style](http://matplotli
 ### Graphs:
 
  - TPES (Total Primary Energy Supply) vs. HDI (Human Development Index 
-   !(tpes_vs_hdi_2014.png)
+   ![PNG](tpes_vs_hdi_2014.png)
 
