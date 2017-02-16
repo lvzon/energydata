@@ -15,7 +15,7 @@ Plots were made using either [matplotlib with the ggplot-style](http://matplotli
  - Oil price (inflation-corrected, in 2015 US dollars per litre) over time:
    ![PNG](eneryprices/oilprice-1860-2015.png)
    
- - Energy prices (not inflation-corrected, in US dollars per kWh) for crude oil, natural gas (in the US) and coal (in the US) between 1970 and 2015:
+ - Primary energy prices (not inflation-corrected, in US dollarcents per kWh) for crude oil, natural gas (in the US) and coal (in the US) between 1970 and 2015:
    ![PNG](eneryprices/fuelprices-1970-2015.png)
 
  - TPES (Total Primary Energy Supply) vs. HDI (Human Development Index) for 2014: 
