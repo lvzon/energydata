@@ -18,6 +18,12 @@ Plots were made using either [matplotlib with the ggplot-style](http://matplotli
  - Primary energy prices (not inflation-corrected, in US dollarcents per kWh) for crude oil, natural gas (in the US) and coal (in the US) between 1970 and 2015:
    ![PNG](energyprices/fuelprices-1970-2015.png)
 
+ - Average primary energy supply in TWh per day, for the period 1800-2013, specified by fuel-type:
+   ![PNG](energyhistory/energy-timeseries-total-per-day.png)
+
+ - Average primary energy supply per person in kWh per day, for the period 1800-2013, specified by fuel-type:
+   ![PNG](energyhistory/energy-timeseries-per-person.png)
+
  - TPES (Total Primary Energy Supply) vs. HDI (Human Development Index) for 2014: 
    ![PNG](tpes_vs_hdi_2014.png)
 
